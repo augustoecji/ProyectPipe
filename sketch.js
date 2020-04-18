@@ -1,5 +1,5 @@
 function sum(a,b) {
-	return a + b + 20;
+	return a + b;
 }
 
 function prod(a,b) {
