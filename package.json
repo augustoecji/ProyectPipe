@@ -10,8 +10,8 @@
     "Pipeline"
   ],
   "author": "Augusto",
-  "license": "MIT",
-  },
+  "license": "MIT"
+  }
   "devDependencies": {
     "jest": "^25.3.0"
   }
