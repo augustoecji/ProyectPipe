@@ -1,0 +1,54 @@
+body{
+  color:blue;
+  background-color: lightblue;
+  font-family: "Lucidatypewriter", monospace;
+  text-shadow: 5px 5px 10px red;
+  background: url(https://previews.123rf.com/images/hakkiarslan/hakkiarslan1510/hakkiarslan151000065/47326470-estilo-grunge-abstracto-fondos-coloridos-splash-acuarela-imagen-de-fondo-ilustraci%C3%B3n-.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.titulopag{
+  text-align: center;
+  color: yellow;
+}
+
+.img{
+  border: solid;
+  border-radius: 80px;
+  border-color: red;
+  width: 150px;
+  height: 150px;
+  display: block;
+  margin: auto;
+}
+
+.parrafointro{
+  text-align: center;
+  font-size: 25px;
+}
+.hobbies{
+  text-align: center;
+}
+.lista{
+  text-align: center;
+}
+.insta{
+  width: 30px;
+  height: 30px;
+}
+.face{
+  width: 35px;
+  height: 35px;
+}
+#girar {
+    
+    
+  
+    transition: all 5s;
+    transform-origin: center center;
+    cursor: pointer;
+}
+#girar:hover{
+  transform: rotate(360deg);
+  
+}
