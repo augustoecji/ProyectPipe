@@ -1,8 +1,12 @@
 {
   "name": "proyectoci",
   "version": "1.0.0",
-  "description": "Prueba para pipeline",
+  "description": "pruebaaas",
   "main": "sketch.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.3.0"
+  },
   "scripts": {
     "test": "jest"
   },
@@ -11,14 +15,12 @@
     "url": "git+https://github.com/augustoecji/ProyectPipe.git"
   },
   "keywords": [
-    "Pipeline"
+    "pipelines"
   ],
-  "author": "Augusto",
+  "author": "Augusto Echeverria",
   "license": "MIT",
- 
+  "bugs": {
+    "url": "https://github.com/augustoecji/ProyectPipe/issues"
   },
-  "homepage": "https://github.com/augustoecji/ProyectPipe.git#readme",
-  "devDependencies": {
-    "jest": "^25.3.0"
-  }
+  "homepage": "https://github.com/augustoecji/ProyectPipe#readme"
 }
