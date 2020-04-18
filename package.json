@@ -1,0 +1,25 @@
+{
+  "name": "proyectoci",
+  "version": "1.0.0",
+  "description": "Prueba para pipeline",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustoecji/prueba.git"
+  },
+  "keywords": [
+    "Pipeline"
+  ],
+  "author": "Augusto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/augustoecji/prueba/issues"
+  },
+  "homepage": "https://github.com/augustoecji/prueba#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
