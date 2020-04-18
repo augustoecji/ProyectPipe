@@ -6,12 +6,18 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustoecji/ProyectPipe.git"
+  },
   "keywords": [
     "Pipeline"
   ],
   "author": "Augusto",
-  "license": "MIT"
-  }
+  "license": "MIT",
+ 
+  },
+  "homepage": "https://github.com/augustoecji/ProyectPipe.git#readme",
   "devDependencies": {
     "jest": "^25.3.0"
   }
